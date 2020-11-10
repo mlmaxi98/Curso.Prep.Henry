@@ -2,8 +2,8 @@
 
 2) Strings: Un String es una serie de letras, números y simbolos que van juntos de la mano para formar una cadena.
  
-3) Funciones (argumentos, return): Una función es un conjunto de acciones las cuales puedes reutilizar las veces que quieras sin necesidad de alargar demasiado el código, puedes enviarle cosas llamadas argumentos como si fuera una cajita que sirve para guardarlas y luego puedes recibir algo mediante el uso de return.
+3) Funciones (argumentos, return): Una función es un conjunto de acciones las cuales puedes reutilizar las veces que quieras sin necesidad de alargar demasiado el código repitiendo las mismas acciones, puedes enviarle cosas llamadas argumentos como si fuera una cajita que sirve para guardarlas y luego puedes recibir algo mediante el uso de return.
 
 4) Declaraciones if: Un if es una acción que puede o no ejecutar acciones dependiendo si la condición es verdadera o falsa.
 
-5) Valores booleanos (true, false): Un true es un valor que funciona como un Si, 1 o Verdadero, Un false es lo contrario y puede ser un No, 0 o Falso, tambien es el resultado de una condición.
+5) Valores booleanos (true, false): Un true es un valor que funciona como un Si, 1 o Verdadero, Un false es lo contrario y puede ser un No, 0 o Falso, los valores booleanos tambien son el resultado de una condición.
